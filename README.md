@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kamran Khanmammadov</h1>
-<h3 align="center">Data Engineer , maybe not</h3>
+<h3 align="center">Data Engineer , maybe analyst</h3>
 
 - 🔭 I’m currently working on **ETL pipelines**
 
