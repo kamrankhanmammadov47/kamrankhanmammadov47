@@ -4,13 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Kamran Khanmammadov</h1>
-<h3 align="center">Data Engineer , maybe analyst</h3>
 
-- 🔭 I’m currently working on **ETL pipelines**
-
-- 🌱 I’m currently learning **DataBricks**
-
-- 🤝 I’m looking for help with **life**
 
 - 📫 How to reach me **kmrnkhan003@gmail.com**
 
